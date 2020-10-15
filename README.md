@@ -13,4 +13,5 @@ Naïve Bayes
 
 # We broke the work up into different sections
 Jeff took Linear regression
-Taylor took
+Taylor took Decision Trees and Random Forest
+Virginia took KNN
