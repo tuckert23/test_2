@@ -12,9 +12,9 @@ Naïve Bayes
 
 
 # We broke the work up into different sections
-Jeff took Linear regression and Logistic Regression
-Taylor took Decision Trees and Random Forest and Naïve Bayes
-Virginia took KNN and SVM
+Jeff took Linear regression and Logistic Regression. He also worked on the cleaner notebook
+Taylor took Decision Trees/Random Forest and Naïve Bayes. He also worked on the Cleaner notebook, eda, and the conclusion file. 
+Virginia took KNN and SVM, as well as the conclusion file. 
 
 # Note about the classifiers
 We used the median value of the chance of admission feature as our threshold to binarize the result vector "Chance of Admit.
